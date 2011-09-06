@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3732
+
+This script allows vim to recognize and highlight files in RPSL (aka Whois) format. Files *.rpsl suffix are recognized. Highlighting of keywords, class names/values and comments is present. 
+
+Project homepage: https://github.com/argent-smith/vim-rpsl 
+Author's homepage: http://argent-smith.github.com
